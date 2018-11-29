@@ -1,0 +1,848 @@
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv/local/lib64/python2.7/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+/data/home/work/ChatRobot/server/servervenv3/lib/python3.6/site-packages/pymongo/topology.py:75: UserWarning: MongoClient opened before fork. Create MongoClient with connect=False, or create client after forking. See PyMongo's documentation for details: http://api.mongodb.org/python/current/faq.html#using-pymongo-with-multiprocessing>
+  "MongoClient opened before fork. Create MongoClient "
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:(502, '<html>\r\n<head><title>502 Bad Gateway</title></head>\r\n<body bgcolor="white">\r\n<center><h1>502 Bad Gateway</h1></center>\r\n<hr><center>nginx/1.12.2</center>\r\n</body>\r\n</html>\r\n', <urllib3.response.HTTPResponse object at 0x7f83444219b0>)
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+ERROR:root:send message error:HTTPSConnectionPool(host='api.telegram.org', port=443): Read timed out. (read timeout=30)
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
+ERROR:root:send message error:('Forbidden: user is deactivated', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: user is deactivated'})
+ERROR:root:send message error:('Forbidden: bot was blocked by the user', 403, {'ok': False, 'error_code': 403, 'description': 'Forbidden: bot was blocked by the user'})
